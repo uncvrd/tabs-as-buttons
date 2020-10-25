@@ -1,0 +1,7 @@
+{
+  "name": "tabs-as-buttons",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
